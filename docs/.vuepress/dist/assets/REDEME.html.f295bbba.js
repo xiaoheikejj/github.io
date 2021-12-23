@@ -1,0 +1,1 @@
+const e={key:"v-0b520561",path:"/guide/REDEME.html",title:"guide-readme",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640245791e3,contributors:[{name:"shunxiang.zhang",email:"shunxiang.zhang@upai.com",commits:1}]},filePathRelative:"guide/REDEME.md"};export{e as data};
