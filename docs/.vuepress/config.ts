@@ -1,7 +1,7 @@
 /*
  * @Author:
  * @Date: 2021-12-23 11:09:38
- * @LastEditTime: 2021-12-23 11:13:25
+ * @LastEditTime: 2021-12-23 15:25:56
  * @Description:
  */
 
@@ -16,7 +16,5 @@ export default defineUserConfig<DefaultThemeOptions>({
 
   // 主题和它的配置
   theme: "@vuepress/theme-default",
-  themeConfig: {
-    logo: "https://vuejs.org/images/logo.png",
-  },
+  themeConfig: {},
 });
