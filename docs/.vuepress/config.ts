@@ -1,10 +1,3 @@
-/*
- * @Author:
- * @Date: 2021-12-23 11:09:38
- * @LastEditTime: 2021-12-23 15:25:56
- * @Description:
- */
-
 import type { DefaultThemeOptions } from "vuepress";
 import { defineUserConfig } from "vuepress";
 

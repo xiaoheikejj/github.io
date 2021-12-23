@@ -1,1 +1,0 @@
-const a={key:"v-8daa1a0e",path:"/",title:"lalala",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640245791e3,contributors:[{name:"shunxiang.zhang",email:"shunxiang.zhang@upai.com",commits:2}]},filePathRelative:"README.md"};export{a as data};
